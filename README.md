@@ -1,4 +1,5 @@
  SaaS Customer Churn Analysis (Telco Dataset)
+ 
 Hey! I’m Christelle, and this is a project I put together to dig into customer churn — specifically, what makes people cancel a subscription and what businesses can do about it.
 
 I used a Telco customer dataset (which closely mirrors a SaaS model) and ran some analysis using Python, Pandas, Matplotlib, and Seaborn — all inside Google Colab.
