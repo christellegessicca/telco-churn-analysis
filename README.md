@@ -2,7 +2,7 @@
  
 Hey! I’m Christelle, and this is a project I put together to dig into customer churn — specifically, what makes people cancel a subscription and what businesses can do about it.
 
-I used a Telco customer dataset (which closely mirrors a SaaS model) and ran some analysis using Python, Pandas, Matplotlib, and Seaborn — all inside Google Colab.
+I used a Telco customer dataset (which closely mirrors a SaaS model) and ran some analysis using Python, Pandas, Matplotlib, and Seaborn  all inside Google Colab.
 
 I’ve worked in Sales Engineering and Data roles before, so this project blends two things I really enjoy: data storytelling and helping businesses understand their users better.
 
@@ -18,7 +18,7 @@ About 27% of customers churned
 
 Customers with month-to-month contracts churn way more than those on long-term contracts
 
-People with higher monthly bills were more likely to churn — makes sense if they’re not seeing the value
+People with higher monthly bills were more likely to churn makes sense if they’re not seeing the value
 
 If I were presenting this to a business, I’d recommend:
 Offering discounts or incentives to get customers on annual plans
@@ -42,4 +42,6 @@ Telco Customer Churn on Kaggle
 
 Thanks for reading!
 If you’re working on churn problems or want to talk about data + SaaS stuff, I’d love to connect.
+
+Note: I used AI as a learning assistant while building this project—mainly to help with formatting and syntax reminders. The code, analysis, insights, and final narrative are entirely mine.
 
